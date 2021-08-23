@@ -1,2 +1,2 @@
 # Menu Nav-bar Animated with HTML, CSS and JS
-Menu estilizado com animações
+Menu Navbar estilizado e responsivo, com uso de literals em JS.
